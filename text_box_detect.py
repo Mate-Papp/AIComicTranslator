@@ -144,7 +144,7 @@ def text_boxes(img_path, rectangle=False):
     
     return orign_im
 
-text_boxes(r"C:\Users\Mate\Desktop\AI comic translator --full recognition\07.jpg").show()
+text_boxes(r"C:\Users\Mate\Desktop\AI comic translator --full recognition\07.jpg").show() 
     
 
 
