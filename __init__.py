@@ -1,0 +1,4 @@
+_plugins = [
+    "cleaner"
+]
+
